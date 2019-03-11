@@ -8,4 +8,4 @@ products. All prices are stored within sqlite3 database and can be processed for
 
 ## Image
 
-![Example Processed Data](https://github.com/Felix-Suen/Apple/blob/master/Untitled%201.ods)
+![Example Processed Data](https://github.com/Felix-Suen/Apple/blob/master/mbp%20prices.pdf)
